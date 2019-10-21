@@ -1,0 +1,156 @@
+[2019年10月22日 00时04分22秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时04分22秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时04分22秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时08分22秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时08分22秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时08分22秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,426] InstallSystemDriverSwitch start
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,428] OpenSCManager start
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,434] OpenSCManager ok
+[2019年10月22日 00时13分33秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时13分33秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时13分33秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,436] IsSystemInstallDriver ok
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,439] SystemInstallDriver closing
+[2019年10月22日 00时13分33秒] [CWin::StopDriver,645] OpenService start
+[2019年10月22日 00时13分33秒] [CWin::StopDriver,656] OpenService ok
+[2019年10月22日 00时13分33秒] [CWin::StopDriver,658] ControlService ok
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,441] StopDriver ok
+[2019年10月22日 00时13分33秒] [CWin::RemoveDriver,589] OpenService start
+[2019年10月22日 00时13分33秒] [CWin::RemoveDriver,597] OpenService ok
+[2019年10月22日 00时13分33秒] [CWin::RemoveDriver,599] DeleteService ok
+[2019年10月22日 00时13分33秒] [CWin::InstallSystemDriverSwitch,443] RemoveDriver ok
+[2019年10月22日 00时13分33秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时13分33秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时13分33秒] Error:{	error position:CWin::IsSystemInstallDriver,	error line:706,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,426] InstallSystemDriverSwitch start
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,428] OpenSCManager start
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,434] OpenSCManager ok
+[2019年10月22日 00时13分34秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时13分34秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时13分34秒] Error:{	error position:CWin::IsSystemInstallDriver,	error line:706,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,436] IsSystemInstallDriver ok
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,447] SystemInstallDriver opening
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,459] hFile == INVALID_HANDLE_VALUE
+[2019年10月22日 00时13分34秒] [CWin::StopDriver,645] OpenService start
+[2019年10月22日 00时13分34秒] Error:{	error position:CWin::StopDriver,	error line:649,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,461] StopDriver ok
+[2019年10月22日 00时13分34秒] [CWin::RemoveDriver,589] OpenService start
+[2019年10月22日 00时13分34秒] Error:{	error position:CWin::RemoveDriver,	error line:592,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,463] RemoveDriver ok
+[2019年10月22日 00时13分34秒] [CWin::InstallDriver,560] InstallDriver start
+[2019年10月22日 00时13分34秒] [CWin::InstallDriver,565] CreateService end
+[2019年10月22日 00时13分34秒] [CWin::InstallDriver,580] CreateService ok
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,466] InstallDriver ok
+[2019年10月22日 00时13分34秒] [CWin::StartDriver,613] OpenService start
+[2019年10月22日 00时13分34秒] [CWin::StartDriver,621] OpenService ok
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,468] StartDriver ok
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,480] SystemInstallDriver start
+[2019年10月22日 00时13分34秒] [CWin::InstallSystemDriverSwitch,482] SystemInstallDriver ok
+[2019年10月22日 00时13分34秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时13分34秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时13分34秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,426] InstallSystemDriverSwitch start
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,428] OpenSCManager start
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,434] OpenSCManager ok
+[2019年10月22日 00时15分39秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时15分39秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时15分39秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,436] IsSystemInstallDriver ok
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,439] SystemInstallDriver closing
+[2019年10月22日 00时15分39秒] [CWin::StopDriver,645] OpenService start
+[2019年10月22日 00时15分39秒] [CWin::StopDriver,656] OpenService ok
+[2019年10月22日 00时15分39秒] [CWin::StopDriver,658] ControlService ok
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,441] StopDriver ok
+[2019年10月22日 00时15分39秒] [CWin::RemoveDriver,589] OpenService start
+[2019年10月22日 00时15分39秒] [CWin::RemoveDriver,597] OpenService ok
+[2019年10月22日 00时15分39秒] [CWin::RemoveDriver,599] DeleteService ok
+[2019年10月22日 00时15分39秒] [CWin::InstallSystemDriverSwitch,443] RemoveDriver ok
+[2019年10月22日 00时15分39秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时15分39秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时15分39秒] Error:{	error position:CWin::IsSystemInstallDriver,	error line:706,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,426] InstallSystemDriverSwitch start
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,428] OpenSCManager start
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,434] OpenSCManager ok
+[2019年10月22日 00时15分40秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时15分40秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时15分40秒] Error:{	error position:CWin::IsSystemInstallDriver,	error line:706,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,436] IsSystemInstallDriver ok
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,447] SystemInstallDriver opening
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,459] hFile == INVALID_HANDLE_VALUE
+[2019年10月22日 00时15分40秒] [CWin::StopDriver,645] OpenService start
+[2019年10月22日 00时15分40秒] Error:{	error position:CWin::StopDriver,	error line:649,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,461] StopDriver ok
+[2019年10月22日 00时15分40秒] [CWin::RemoveDriver,589] OpenService start
+[2019年10月22日 00时15分40秒] Error:{	error position:CWin::RemoveDriver,	error line:592,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,463] RemoveDriver ok
+[2019年10月22日 00时15分40秒] [CWin::InstallDriver,560] InstallDriver start
+[2019年10月22日 00时15分40秒] [CWin::InstallDriver,565] CreateService end
+[2019年10月22日 00时15分40秒] [CWin::InstallDriver,580] CreateService ok
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,466] InstallDriver ok
+[2019年10月22日 00时15分40秒] [CWin::StartDriver,613] OpenService start
+[2019年10月22日 00时15分40秒] [CWin::StartDriver,621] OpenService ok
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,468] StartDriver ok
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,480] SystemInstallDriver start
+[2019年10月22日 00时15分40秒] [CWin::InstallSystemDriverSwitch,482] SystemInstallDriver ok
+[2019年10月22日 00时15分40秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时15分40秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时15分40秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,426] InstallSystemDriverSwitch start
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,428] OpenSCManager start
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,434] OpenSCManager ok
+[2019年10月22日 00时18分17秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时18分17秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时18分17秒] [CWin::IsSystemInstallDriver,713] OpenService ok
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,436] IsSystemInstallDriver ok
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,439] SystemInstallDriver closing
+[2019年10月22日 00时18分17秒] [CWin::StopDriver,645] OpenService start
+[2019年10月22日 00时18分17秒] [CWin::StopDriver,656] OpenService ok
+[2019年10月22日 00时18分17秒] [CWin::StopDriver,658] ControlService ok
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,441] StopDriver ok
+[2019年10月22日 00时18分17秒] [CWin::RemoveDriver,589] OpenService start
+[2019年10月22日 00时18分17秒] [CWin::RemoveDriver,597] OpenService ok
+[2019年10月22日 00时18分17秒] [CWin::RemoveDriver,599] DeleteService ok
+[2019年10月22日 00时18分17秒] [CWin::InstallSystemDriverSwitch,443] RemoveDriver ok
+[2019年10月22日 00时18分17秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时18分17秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时18分17秒] Error:{	error position:CWin::IsSystemInstallDriver,	error line:706,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,426] InstallSystemDriverSwitch start
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,428] OpenSCManager start
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,434] OpenSCManager ok
+[2019年10月22日 00时18分18秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时18分18秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时18分18秒] Error:{	error position:CWin::IsSystemInstallDriver,	error line:706,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,436] IsSystemInstallDriver ok
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,447] SystemInstallDriver opening
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,459] hFile == INVALID_HANDLE_VALUE
+[2019年10月22日 00时18分18秒] [CWin::StopDriver,645] OpenService start
+[2019年10月22日 00时18分18秒] Error:{	error position:CWin::StopDriver,	error line:649,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,461] StopDriver ok
+[2019年10月22日 00时18分18秒] [CWin::RemoveDriver,589] OpenService start
+[2019年10月22日 00时18分18秒] Error:{	error position:CWin::RemoveDriver,	error line:592,	error function:OpenService,	error code:183,	error information:当文件已存在时，无法创建该文件。
+}
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,463] RemoveDriver ok
+[2019年10月22日 00时18分18秒] [CWin::InstallDriver,560] InstallDriver start
+[2019年10月22日 00时18分18秒] [CWin::InstallDriver,565] CreateService end
+[2019年10月22日 00时18分18秒] [CWin::InstallDriver,580] CreateService ok
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,466] InstallDriver ok
+[2019年10月22日 00时18分18秒] [CWin::StartDriver,613] OpenService start
+[2019年10月22日 00时18分18秒] [CWin::StartDriver,621] OpenService ok
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,468] StartDriver ok
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,480] SystemInstallDriver start
+[2019年10月22日 00时18分18秒] [CWin::InstallSystemDriverSwitch,482] SystemInstallDriver ok
+[2019年10月22日 00时18分18秒] [CWin::IsSystemInstallDriver,700] OpenService start
+[2019年10月22日 00时18分18秒] [CWin::IsSystemInstallDriver,702] OpenService end
+[2019年10月22日 00时18分18秒] [CWin::IsSystemInstallDriver,713] OpenService ok
